@@ -1,0 +1,6 @@
+[submodule "doxygen-awesome-css"]
+	path = doxygen-awesome-css
+	url = https://github.com/jothepro/doxygen-awesome-css.git
+[submodule "OpenSiv3D"]
+	path = OpenSiv3D
+	url = https://github.com/Siv3D/OpenSiv3D.git
